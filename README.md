@@ -6,6 +6,8 @@ I make games and apps, and I work on art, animation, editing, and graphic design
 
 My interests connect programming with visual creativity—gameplay, interfaces, graphics, motion, and the small details that give an experience its character.
 
+[Art & animation portfolio](https://www.instagram.com/pigheadedpeak/) · [LinkedIn](https://www.linkedin.com/in/sanay-jog-b24098280/)
+
 [Play Stormvault Courier](https://pigheadedpeak16.github.io/stormvault-courier-alpha/) · [Browse my projects](https://github.com/pigheadedpeak16?tab=repositories) · [Explore BTC LAB](https://pigheadedpeak16.github.io/btc-lab-v3/)
 
 ## What I create
@@ -85,4 +87,8 @@ I like projects where I can move between programming and creative decisions: how
 
 ---
 
-[Explore my repositories](https://github.com/pigheadedpeak16?tab=repositories) · [Play Stormvault Courier](https://pigheadedpeak16.github.io/stormvault-courier-alpha/) · [Try BTC LAB](https://pigheadedpeak16.github.io/btc-lab-v3/)
+## Portfolio & connect
+
+- **Art & animation portfolio:** [Instagram · @pigheadedpeak](https://www.instagram.com/pigheadedpeak/)
+- **Professional profile:** [LinkedIn · Sanay Jog](https://www.linkedin.com/in/sanay-jog-b24098280/)
+- **Code & projects:** [GitHub · @pigheadedpeak16](https://github.com/pigheadedpeak16?tab=repositories)
