@@ -1,97 +1,88 @@
-<p align="center">
-  <img src="assets/profile-banner.svg" alt="Sanay — research tools, interactive software, and projects built to be explored" width="100%">
-</p>
+# Hi, I'm Sanay
 
-<p align="center">
-  <a href="https://pigheadedpeak16.github.io/btc-lab-v3/"><strong>Explore BTC LAB</strong></a>
-  &nbsp;·&nbsp;
-  <a href="https://pigheadedpeak16.github.io/stormvault-courier-alpha/"><strong>Play Stormvault Courier</strong></a>
-  &nbsp;·&nbsp;
-  <a href="https://github.com/pigheadedpeak16?tab=repositories">Browse my repositories</a>
-</p>
+**Game developer · Computer science · Creative programming**
 
-## About me
+I make games and apps, and I work on art, animation, editing, and graphic design. I enjoy both sides of a project: building the systems behind it and shaping how it looks, moves, and feels.
 
-I build projects to explore how systems work—from market-data research tools to browser games and computer graphics.
+My interests connect programming with visual creativity—gameplay, interfaces, graphics, motion, and the small details that give an experience its character.
 
-My current focus is turning ideas into software that people can run and inspect: clear interfaces, reproducible experiments, useful diagnostics, and honest explanations of what the results do and do not establish.
+[Play Stormvault Courier](https://pigheadedpeak16.github.io/stormvault-courier-alpha/) · [Browse my projects](https://github.com/pigheadedpeak16?tab=repositories) · [Explore BTC LAB](https://pigheadedpeak16.github.io/btc-lab-v3/)
+
+## What I create
+
+| Area | What I work on |
+| --- | --- |
+| **Games** | Playable prototypes, gameplay mechanics, controls, progression, and interactive experiences |
+| **Apps & software** | App projects, web interfaces, useful tools, and software experiments |
+| **Art & graphic design** | Artwork, visual concepts, layout, composition, and presentation |
+| **Animation & editing** | Motion, timing, pacing, and bringing visual ideas together |
+| **Creative coding & graphics** | Interactive visuals, rendering experiments, and the mathematics behind what appears on screen |
 
 ## Featured projects
 
-### BTC LAB · Market research & strategy testing
-
-A local Python workbench for researching BTC five-minute prediction markets. It connects market observations, configurable signals, causal replay, and realistic shadow execution in one inspectable workflow.
-
-- **Seven configurable strategy families** with saved, immutable revisions, definition export, and archival history.
-- **Causal replay:** keeps source, receipt, and processing timestamps distinct so later observations cannot silently become earlier evidence.
-- **Execution constraints:** market expiry, delayed orders, book integrity, fees, minimum sizes, available depth, and partial fills.
-- **A focused dashboard:** Live Data → Strategies → Results → Diagnostics, with saved reports and rejection reasons.
-- **Verification:** 642 regression and integration tests passed on both Windows and Ubuntu for [release v0.5.9.5](https://github.com/pigheadedpeak16/btc-lab-v3/releases/tag/v0.5.9.5).
-- **Reproducible entry point:** a clearly labeled synthetic example that runs without credentials or live collection.
-
-**Built with:** Python · NumPy · Pydantic · SQLite · pytest · HTML/CSS/JavaScript · GitHub Actions
-
-[Project website & setup](https://pigheadedpeak16.github.io/btc-lab-v3/) · [Source code](https://github.com/pigheadedpeak16/btc-lab-v3) · [Research method & evidence](https://github.com/pigheadedpeak16/btc-lab-v3/blob/main/docs/RESEARCH_NOTES.md) · [Architecture](https://github.com/pigheadedpeak16/btc-lab-v3/blob/main/docs/ARCHITECTURE.md)
-
-> **Research, paper only.** The lab does not place real-money orders or establish that a strategy is profitable. Synthetic examples verify software behavior; they are not performance evidence.
-
-### Stormvault Courier Alpha · Browser game
+### Stormvault Courier Alpha
+**Game development · TypeScript · Phaser · Vite**
 
 A playable browser-game prototype built around a salvage ship, hostile sectors, resource collection, and progression.
 
-- Explore solar-system routes while managing increasing enemy pressure.
-- Experiment with ship classes, temporary system upgrades, and permanent progression.
-- Inspect enemy types and route themes through the codex and solar-system browser.
-- Play with keyboard/mouse or the small-screen touch controls and Build drawer.
-- Includes regression checks for progression and resource-balance behavior.
+- Solar-system routes, increasing enemy pressure, and different ship classes.
+- Temporary system upgrades alongside permanent progression.
+- An enemy codex and solar-system browser for exploring the game's content.
+- Keyboard/mouse play and small-screen touch controls, including a Build drawer.
+- Regression checks for progression and resource-balance behavior.
 
-**Built with:** TypeScript · Phaser · Vite
+This project brings together gameplay programming, interface design, feedback, and progression balancing. It is an early alpha with more mechanics and content still in development.
 
 [Play in your browser](https://pigheadedpeak16.github.io/stormvault-courier-alpha/) · [Source code](https://github.com/pigheadedpeak16/stormvault-courier-alpha) · [Controls & project notes](https://github.com/pigheadedpeak16/stormvault-courier-alpha#controls)
 
-*An early alpha: additional tiers, mechanics, and content remain in development.*
+### BTC LAB
+**Software development · Python · Data research**
 
-## Tools in my projects
+A local strategy research workbench for BTC five-minute prediction markets—a project focused on data quality, configurable experiments, and inspectable software behavior.
 
-| Area | Languages, tools & concepts |
+- Seven configurable strategy families with saved revisions and causal historical replay.
+- A four-view dashboard for live observations, strategy settings, results, and diagnostics.
+- Simulated execution that checks timing, fees, market expiry, and available order-book depth.
+- **642 regression and integration tests** passed on Windows and Ubuntu for [release v0.5.9.5](https://github.com/pigheadedpeak16/btc-lab-v3/releases/tag/v0.5.9.5).
+- A synthetic example and setup guide so others can try the workflow locally.
+
+[Project website](https://pigheadedpeak16.github.io/btc-lab-v3/) · [Source code](https://github.com/pigheadedpeak16/btc-lab-v3) · [Research notes](https://github.com/pigheadedpeak16/btc-lab-v3/blob/main/docs/RESEARCH_NOTES.md)
+
+*Paper-only research software. It does not place real-money orders or demonstrate a profitable strategy.*
+
+## Languages & tools in my projects
+
+| Focus | Tools & foundations |
 | --- | --- |
-| Research & data | Python, NumPy, SQLite, causal observations, replay, execution modeling |
-| Web & interfaces | TypeScript, JavaScript, HTML, CSS, Vite |
-| Games | Phaser, Unity, C#, real-time interactions, progression systems |
+| Game development | Unity, C#, Phaser, TypeScript |
+| Apps & web interfaces | JavaScript, TypeScript, HTML, CSS, Vite |
+| Software & research tools | Python, NumPy, Pydantic, SQLite |
 | Computer graphics | WebGL, vectors and matrices, ray tracing, texturing, lighting, shadow mapping |
-| Validation & delivery | pytest, regression checks, Git, GitHub Actions, GitHub Pages |
+| Testing & delivery | pytest, regression checks, Git, GitHub Actions, GitHub Pages |
 
-## What I'm exploring
+My creative work also includes art, animation, editing, and graphic design. I bring that visual perspective into how I approach games, apps, and interfaces.
 
-- **Research systems:** how data quality, timing, and execution assumptions affect the conclusions an experiment can support.
-- **Interactive software:** how controls, feedback, interfaces, and progression work together in a usable prototype.
-- **Graphics foundations:** the mathematics and rendering techniques behind what appears on screen.
-- **Reproducibility:** making a project understandable through examples, tests, documentation, and inspectable output.
+## What interests me
 
-## Coursework & foundations
+- **Game feel:** how controls, feedback, timing, and progression make an interaction satisfying.
+- **Visual storytelling:** how art, animation, design, and editing shape the personality of a project.
+- **Creative programming:** using code to make interactive systems, graphics, and visual experiments.
+- **App development:** turning an idea into something practical that people can use.
+- **The connection between art and engineering:** making the technical and visual parts of a project work together.
+
+## Computer science & game development foundations
 
 | Repository | Focus |
 | --- | --- |
 | [CST 325 · Computer graphics](https://github.com/pigheadedpeak16/CST-325-Section-SANAY-JOG) | Particle systems, vector/matrix work, ray tracing, WebGL, textures, Phong lighting, and shadow mapping |
 | [CST 326 · Game development](https://github.com/pigheadedpeak16/CST-326-Section-SANAY-JOG) | Unity/C# coursework, including Pong, platformer, Plinko, roll-a-ball, and shoot-em-up projects |
 
-These repositories show the exercises and foundations alongside my independent projects.
+## How I like to build
 
-## How I approach a project
+**Start with an idea → make it interactive → shape the visuals → test and refine.**
 
-1. **Make the idea concrete.** Build something that can be run or played.
-2. **Make the behavior inspectable.** Keep useful diagnostics, outputs, and failure reasons visible.
-3. **Test the assumptions.** Check edge cases and preserve regression evidence.
-4. **Document the limits.** Separate a working implementation from a claim that still needs evidence.
+I like projects where I can move between programming and creative decisions: how something works, how it communicates, and how it feels to use or play.
 
 ---
 
-<p align="center">
-  <strong>Want to explore a project?</strong><br>
-  Start with the live demo or README, then look through the source and tests.<br><br>
-  <a href="https://github.com/pigheadedpeak16">GitHub</a>
-  &nbsp;·&nbsp;
-  <a href="https://github.com/pigheadedpeak16/btc-lab-v3/issues">BTC LAB issues</a>
-  &nbsp;·&nbsp;
-  <a href="https://github.com/pigheadedpeak16/stormvault-courier-alpha/issues">Stormvault issues</a>
-</p>
+[Explore my repositories](https://github.com/pigheadedpeak16?tab=repositories) · [Play Stormvault Courier](https://pigheadedpeak16.github.io/stormvault-courier-alpha/) · [Try BTC LAB](https://pigheadedpeak16.github.io/btc-lab-v3/)
