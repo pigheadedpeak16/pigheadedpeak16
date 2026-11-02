@@ -1,9 +1,9 @@
 <p align="center">
   <picture>
-  <source media="(prefers-reduced-motion: reduce) and (max-width: 600px)" srcset="assets/hero-mobile-static.png">
-  <source media="(prefers-reduced-motion: reduce)" srcset="assets/hero-static.png">
-  <source media="(max-width: 600px)" srcset="assets/hero-mobile.gif">
-  <img src="assets/hero.gif" width="100%" alt="Sanay Jog — apps, games, and animation. Animated interface panels, code, and a motion timeline with a typing introduction: I make apps, I build games, I animate ideas.">
+  <source media="(prefers-reduced-motion: reduce) and (max-width: 600px)" srcset="assets/intro-mobile-static.png">
+  <source media="(prefers-reduced-motion: reduce)" srcset="assets/intro-static.png">
+  <source media="(max-width: 600px)" srcset="assets/intro-mobile.gif">
+  <img src="assets/intro.gif" width="100%" alt="Sanay Jog — apps, games, and animation. Animated interface panels, code, and a motion timeline with a typing introduction: I make apps, I build games, I animate ideas.">
   </picture>
 </p>
 
@@ -30,7 +30,7 @@ I like moving between the technical and creative sides of a project: building a 
 ## A few of my projects
 
 <a href="https://pigheadedpeak16.github.io/stormvault-courier-alpha/">
-  <img src="assets/stormvault.png" width="100%" alt="Stormvault Courier — one of my game development projects. A browser-game prototype built with TypeScript, Phaser, and Vite.">
+  <img src="assets/project-stormvault.png" width="100%" alt="Stormvault Courier — one of my game development projects. A browser-game prototype built with TypeScript, Phaser, and Vite.">
 </a>
 
 Pilot a salvage ship through hostile sectors, collect resources, and decide when to push further or head back. **Stormvault Courier** brings together gameplay programming, progression balancing, interface design, and game feel.
@@ -46,7 +46,7 @@ Pilot a salvage ship through hostile sectors, collect resources, and decide when
 <br>
 
 <a href="https://pigheadedpeak16.github.io/btc-lab-v3/">
-  <img src="assets/btc-lab.png" width="100%" alt="BTC LAB — one of my software and data projects. A local strategy research workbench built with Python.">
+  <img src="assets/project-btc-lab.png" width="100%" alt="BTC LAB — one of my software and data projects. A local strategy research workbench built with Python.">
 </a>
 
 A local research workbench for BTC five-minute prediction markets. **BTC LAB** focuses on inspectable experiments: where the data came from, which strategy version ran, and what the supplied order book allowed.
@@ -78,8 +78,8 @@ A local research workbench for BTC five-minute prediction markets. **BTC LAB** f
 ## Tools behind the work
 
 <picture>
-  <source media="(max-width: 600px)" srcset="assets/toolbox-mobile.png">
-  <img src="assets/toolbox.png" width="100%" alt="Tools used in my projects: Unity, C#, Phaser, TypeScript, JavaScript, WebGL, Python, HTML and CSS, Vite, SQLite, Git, and GitHub Actions.">
+  <source media="(max-width: 600px)" srcset="assets/toolkit-mobile.png">
+  <img src="assets/toolkit.png" width="100%" alt="Tools used in my projects: Unity, C#, Phaser, TypeScript, JavaScript, WebGL, Python, HTML and CSS, Vite, SQLite, Git, and GitHub Actions.">
 </picture>
 
 **Also in my projects:** NumPy, Pydantic, pytest, and GitHub Pages.
@@ -101,10 +101,10 @@ A local research workbench for BTC five-minute prediction markets. **BTC LAB** f
 ## How I like to build
 
 <picture>
-  <source media="(prefers-reduced-motion: reduce) and (max-width: 600px)" srcset="assets/process-mobile-static.png">
-  <source media="(prefers-reduced-motion: reduce)" srcset="assets/process-static.png">
-  <source media="(max-width: 600px)" srcset="assets/process-mobile.gif">
-  <img src="assets/process.gif" width="100%" alt="My iterative process: imagine, build, shape, refine. Each stage lights up in sequence.">
+  <source media="(prefers-reduced-motion: reduce) and (max-width: 600px)" srcset="assets/workflow-mobile-static.png">
+  <source media="(prefers-reduced-motion: reduce)" srcset="assets/workflow-static.png">
+  <source media="(max-width: 600px)" srcset="assets/workflow-mobile.gif">
+  <img src="assets/workflow.gif" width="100%" alt="My iterative process: imagine, build, shape, refine. Each stage lights up in sequence.">
 </picture>
 
 Start with an idea. Make it interactive. Give it a visual identity. Play, test, and keep refining.
