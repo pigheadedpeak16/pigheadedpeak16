@@ -1,11 +1,11 @@
 <p align="center">
   <picture>
-  <source media="(prefers-reduced-motion: reduce) and (max-width: 600px)" srcset="assets/intro-mobile-static.png">
-  <source media="(prefers-reduced-motion: reduce)" srcset="assets/intro-static.png">
-  <source media="(max-width: 600px)" srcset="assets/intro-mobile.gif">
-  <img src="assets/intro.gif" width="100%" alt="Sanay Jog — apps, games, and animation. Animated interface panels, code, and a motion timeline with a typing introduction: I make apps, I build games, I animate ideas.">
+  <source media="(max-width: 600px)" srcset="assets/intro-mobile-animated.gif">
+  <img src="assets/intro-animated.gif" width="100%" alt="Sanay Jog — apps, games, and animation. Animated interface panels, code, and a motion timeline with a typing introduction: I make apps, I build games, I animate ideas.">
   </picture>
 </p>
+
+<p align="center"><sub><a href="assets/intro-static.png">View a still version of the header</a></sub></p>
 
 <p align="center">
   <a href="https://github.com/pigheadedpeak16?tab=repositories"><b>MY PROJECTS ↗</b></a>
@@ -30,7 +30,7 @@ I like moving between the technical and creative sides of a project: building a 
 ## A few of my projects
 
 <a href="https://pigheadedpeak16.github.io/stormvault-courier-alpha/">
-  <img src="assets/project-stormvault.png" width="100%" alt="Stormvault Courier — one of my game development projects. A browser-game prototype built with TypeScript, Phaser, and Vite.">
+  <img src="assets/stormvault-controller.png" width="100%" alt="Stormvault Courier — one of my game development projects. A browser-game prototype built with TypeScript, Phaser, and Vite.">
 </a>
 
 Pilot a salvage ship through hostile sectors, collect resources, and decide when to push further or head back. **Stormvault Courier** brings together gameplay programming, progression balancing, interface design, and game feel.
@@ -46,7 +46,7 @@ Pilot a salvage ship through hostile sectors, collect resources, and decide when
 <br>
 
 <a href="https://pigheadedpeak16.github.io/btc-lab-v3/">
-  <img src="assets/project-btc-lab.png" width="100%" alt="BTC LAB — one of my software and data projects. A local strategy research workbench built with Python.">
+  <img src="assets/btc-lab-workbench.png" width="100%" alt="BTC LAB — one of my software and data projects. A local strategy research workbench built with Python.">
 </a>
 
 A local research workbench for BTC five-minute prediction markets. **BTC LAB** focuses on inspectable experiments: where the data came from, which strategy version ran, and what the supplied order book allowed.
@@ -101,8 +101,6 @@ A local research workbench for BTC five-minute prediction markets. **BTC LAB** f
 ## How I like to build
 
 <picture>
-  <source media="(prefers-reduced-motion: reduce) and (max-width: 600px)" srcset="assets/workflow-mobile-static.png">
-  <source media="(prefers-reduced-motion: reduce)" srcset="assets/workflow-static.png">
   <source media="(max-width: 600px)" srcset="assets/workflow-mobile.gif">
   <img src="assets/workflow.gif" width="100%" alt="My iterative process: imagine, build, shape, refine. Each stage lights up in sequence.">
 </picture>
