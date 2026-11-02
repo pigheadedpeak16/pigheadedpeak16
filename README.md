@@ -3,12 +3,12 @@
   <source media="(prefers-reduced-motion: reduce) and (max-width: 600px)" srcset="assets/hero-mobile-static.png">
   <source media="(prefers-reduced-motion: reduce)" srcset="assets/hero-static.png">
   <source media="(max-width: 600px)" srcset="assets/hero-mobile.gif">
-  <img src="assets/hero.gif" width="100%" alt="Sanay Jog — game developer and creative coder. An animated ship, orbit, and typing introduction: building worlds with code, giving ideas motion, and making things worth playing.">
+  <img src="assets/hero.gif" width="100%" alt="Sanay Jog — apps, games, and animation. Animated interface panels, code, and a motion timeline with a typing introduction: I make apps, I build games, I animate ideas.">
   </picture>
 </p>
 
 <p align="center">
-  <a href="https://pigheadedpeak16.github.io/stormvault-courier-alpha/"><b>PLAY MY GAME ↗</b></a>
+  <a href="https://github.com/pigheadedpeak16?tab=repositories"><b>MY PROJECTS ↗</b></a>
   &nbsp;&nbsp; / &nbsp;&nbsp;
   <a href="https://www.instagram.com/pigheadedpeak/"><b>ART & ANIMATION ↗</b></a>
   &nbsp;&nbsp; / &nbsp;&nbsp;
@@ -19,7 +19,7 @@
 
 ## A little code. A little art. A lot of iteration.
 
-Hey, I'm **Sanay** — I make games, apps, and software, and I work on **art, animation, editing, and graphic design**.
+Hey, I'm **Sanay** — I build **apps**, make **games**, and create **animations**. I also work on art, editing, and graphic design.
 
 I like moving between the technical and creative sides of a project: building a gameplay system, shaping an interface, adjusting the timing of an animation, then trying it all again. The details matter to me — how something responds, what it communicates, and whether it feels good to use.
 
@@ -27,10 +27,10 @@ I like moving between the technical and creative sides of a project: building a 
 
 <br>
 
-## Selected builds
+## A few of my projects
 
 <a href="https://pigheadedpeak16.github.io/stormvault-courier-alpha/">
-  <img src="assets/stormvault.png" width="100%" alt="Stormvault Courier — featured browser game. TypeScript, Phaser, Vite. Salvage, survive, upgrade, and go deeper.">
+  <img src="assets/stormvault.png" width="100%" alt="Stormvault Courier — one of my game development projects. A browser-game prototype built with TypeScript, Phaser, and Vite.">
 </a>
 
 Pilot a salvage ship through hostile sectors, collect resources, and decide when to push further or head back. **Stormvault Courier** brings together gameplay programming, progression balancing, interface design, and game feel.
@@ -46,7 +46,7 @@ Pilot a salvage ship through hostile sectors, collect resources, and decide when
 <br>
 
 <a href="https://pigheadedpeak16.github.io/btc-lab-v3/">
-  <img src="assets/btc-lab.png" width="100%" alt="BTC LAB — featured Python research software. Test ideas and inspect evidence with data tools and paper replay. Decorative bar-chart artwork, not performance data.">
+  <img src="assets/btc-lab.png" width="100%" alt="BTC LAB — one of my software and data projects. A local strategy research workbench built with Python.">
 </a>
 
 A local research workbench for BTC five-minute prediction markets. **BTC LAB** focuses on inspectable experiments: where the data came from, which strategy version ran, and what the supplied order book allowed.
